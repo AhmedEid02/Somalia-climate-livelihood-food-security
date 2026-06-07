@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Climate-Livelihood Shocks and Household Protection Gaps in Somalia"
+message: "If you use this repository, please cite the related manuscript once published."
+type: dataset
+authors:
+  - family-names: Ismail
+    given-names: Ahmed Hussein
+year: 2026
+abstract: "Derived figures, aggregated outputs, and code templates from a SIHBS 2022-based analysis of climate-livelihood shocks, food insecurity, erosive coping, and household protection gaps in Somalia."
+keywords:
+  - food security
+  - climate shocks
+  - Somalia
+  - adaptive social protection
+  - SIHBS 2022
