@@ -64,4 +64,4 @@ This mini-project is linked to the manuscript:
 
 **Climate-Livelihood Shocks, Erosive Coping, and Household Protection Gaps in Somalia: Evidence from the Integrated Household Budget Survey 2022**
 
-The manuscript is prepared for journal submission. Please cite the published article once available.
+The manuscript is under review. Please cite the published article once available.
